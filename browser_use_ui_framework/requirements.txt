@@ -1,0 +1,2 @@
+# Python dependencies for the browser-use UI Automation Framework
+browser-use
